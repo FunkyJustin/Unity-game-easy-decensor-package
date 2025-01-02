@@ -1,0 +1,18 @@
+UnityExplorer 4.8.2 initializing...
+[UniverseLib] UniverseLib 1.4.3 initializing...
+[UniverseLib] Finished UniverseLib initial setup.
+Initialized UnityCrashPrevention for: Canvas.get_renderingDisplaySize
+[UniverseLib] Initialized Legacy Input support
+[UniverseLib] Loaded modern bundle for Unity 6000.0.31f1
+[UniverseLib] UniverseLib 1.4.3 initialized.
+Creating UI...
+
+UnityExplorer 4.8.2 (Mono) initialized.
+No MainCamera found! Cannot inspect world!
+No Main Camera was found, unable to inspect world!
+No MainCamera found! Cannot inspect world!
+No Main Camera was found, unable to inspect world!
+No MainCamera found! Cannot inspect world!
+No Main Camera was found, unable to inspect world!
+No MainCamera found! Cannot inspect world!
+No Main Camera was found, unable to inspect world!

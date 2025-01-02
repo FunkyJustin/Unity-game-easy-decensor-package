@@ -1,0 +1,34 @@
+[Error  :   BepInEx] Unable to start Unity log writer
+[Message:   BepInEx] BepInEx 5.4.23.2 - reiwa (12/22/2024 11:49:28 AM)
+[Info   :   BepInEx] Running under Unity v6000.0.31.10618563
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.2]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 2 plugins to load
+[Info   :   BepInEx] Loading [SW_Decensor 0.7.2.1]
+[Info   :   BepInEx] Loading [UnityExplorer 4.8.2]
+[Message:UnityExplorer] UnityExplorer 4.8.2 initializing...
+[Message:UnityExplorer] [UniverseLib] UniverseLib 1.4.3 initializing...
+[Message:UnityExplorer] [UniverseLib] Finished UniverseLib initial setup.
+[Message:UnityExplorer] Initialized UnityCrashPrevention for: Canvas.get_renderingDisplaySize
+[Message:   BepInEx] Chainloader startup complete
+[Message:UnityExplorer] [UniverseLib] Initialized Legacy Input support
+[Message:UnityExplorer] [UniverseLib] Loaded modern bundle for Unity 6000.0.31f1
+[Message:UnityExplorer] [UniverseLib] UniverseLib 1.4.3 initialized.
+[Message:UnityExplorer] Creating UI...
+[Message:UnityExplorer] UnityExplorer 4.8.2 (Mono) initialized.
+[Warning:UnityExplorer] No MainCamera found! Cannot inspect world!
+[Warning:UnityExplorer] No Main Camera was found, unable to inspect world!
+[Warning:UnityExplorer] No MainCamera found! Cannot inspect world!
+[Warning:UnityExplorer] No Main Camera was found, unable to inspect world!
+[Warning:UnityExplorer] No MainCamera found! Cannot inspect world!
+[Warning:UnityExplorer] No Main Camera was found, unable to inspect world!
+[Warning:UnityExplorer] No MainCamera found! Cannot inspect world!
+[Warning:UnityExplorer] No Main Camera was found, unable to inspect world!
