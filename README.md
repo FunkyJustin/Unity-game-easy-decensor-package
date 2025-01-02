@@ -46,7 +46,7 @@ simply open up your Unity game and you will be greeted by Menus from the UnityEx
 
 
 
-## The bepinex version in this package is this
+## The BepInEx version in this package is this
 
 [BepInEx_win_x64_5.4.23.2](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)
 
