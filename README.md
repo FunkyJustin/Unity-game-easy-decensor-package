@@ -10,9 +10,10 @@ I created this package to make it easy for me to uncensor Unity-made games
 
 Download the repository by pressing `Code` and `Download ZIP`
 
+---
 ### Downloading the files
 ![image](https://github.com/user-attachments/assets/80b471d7-161c-409f-9e61-eee4dc265201)
-
+---
 ### Main Instruction
 
 1. Simply extract the files from the ZIP file into the `root folder` of the Unity game directory (the folder where the .exe file is)
@@ -20,13 +21,13 @@ Download the repository by pressing `Code` and `Download ZIP`
 2. After extracting or copying the files and folder over to the game directory, 
 simply open up your Unity game and you will be greeted by Menus from the UnityExplorer plugin on the game's Main Menu
 
-
+---
 ### Alternate Instruction
 
-1. Simply download, copy and paste all other files except for the .txt files into the game root directory (in the same folder as the .exe file of the unity game)
+1. Simply download, copy and paste all other files ***except for the .txt*** files into the game's `root directory` (in the same folder as the .exe file of the unity game)
 or copy all of them if you cant be bothered, it will still work.
 
-2. After extracting or copying the files and folder over to the game directory, 
+2. After extracting or copying the files and folder over to the `root game directory`, 
 simply open up your Unity game and you will be greeted by Menus from the UnityExplorer plugin on the game's Main Menu
 
 
