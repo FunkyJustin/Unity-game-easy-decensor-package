@@ -1,9 +1,9 @@
 # Unity Game Easy Decensor Package
 
 ## Description
-Just a little package of plugins for BepInEx for decensoring unity games 
+Just a little package of plugins for BepInEx for decensoring unity games (removing the mosaic filter usually found in Japanese games)
 
-I created this package to make it easy for me to uncensor unity-made games
+I created this package to make it easy for me to uncensor Unity-made games
 
 
 ## Installation
