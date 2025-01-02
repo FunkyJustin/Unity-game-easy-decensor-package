@@ -1,4 +1,4 @@
-# Unity game easy decensor package
+# Unity Game Easy Decensor Package
 
 ## Description
 Just a little package of plugins for BepInEx for decensoring unity games 
@@ -7,7 +7,13 @@ I created this package to make it easy for me to uncensor unity-made games
 
 
 ## Installation
-Simply extract the files in the `**root folder**` of the Unity game directory (the folder where the .exe file is)
+
+Download the repository by pressing `Code` and `Download ZIP`
+
+![image](https://github.com/user-attachments/assets/80b471d7-161c-409f-9e61-eee4dc265201)
+
+
+Simply extract the files from the ZIP into the `root folder` of the Unity game directory (the folder where the .exe file is)
 
 Simply copy all other files except for the .txt files into the game root directory (in the same folder as the .exe file of the unity game)
 or copy all of them if you cant be bothered, it will still work.
