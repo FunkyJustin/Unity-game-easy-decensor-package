@@ -51,5 +51,18 @@ simply open up your Unity game and you will be greeted by Menus from the UnityEx
 
 [BepInEx_win_x64_5.4.23.2](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)
 
+# Other Resources
 
+>
+Somewhere on this site I found a prepackage of bepinex with autotranslator for ilcpp, also there is, again, on this site a bepinex autoinstaller that should work for detecting and installing the best bepinex version for any game.
+
+I created a mega folder with all the different bep's I've used, including the autoinstaller and the AIO autotranslater with bepinex for ilcpp.
+
+[MEGA](https://mega.nz/folder/C1ZRhZZJ#LJV62nyAMr6NZwJZ5xG-Vw)
+
+the one that worked for me for this game was 'XUnity.AutoTranslator with BepInEx for il2cpp'
+
+Also, I couldn't get an uncensor to work that didn't break the game.
+
+From: 'https://f95zone.to/threads/translation-request-gyaruzukorekutaa-gals-collector-rj01285811-studio-tris.235826/post-15602645'
 
